@@ -1,0 +1,86 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f8f9fa;
+}
+
+.container {
+  width: auto;
+  text-align: center;
+  padding: 0 20px;
+}
+
+.cake-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-control1 {
+  width: 220px;
+  padding: 6px 12px;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+  outline: none;
+  box-sizing: border-box;
+}
+
+.form-control2 {
+  width: 300px;
+  padding: 6px 12px;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+  outline: none;
+  box-sizing: border-box;
+}
+
+.btn-calculate {
+  display: inline-block;
+  font-weight: 400;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  user-select: none;
+  padding: 6px 12px;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: 0.25rem;
+  color: #fff;
+  background-color: #007bff;
+  border-color: #007bff;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.cake2 {
+  margin-top: 10px;
+}
+
+.result {
+  padding: 15px;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+  background-color: #e9ecef;
+  display: inline-block;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+}
+
