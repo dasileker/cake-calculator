@@ -11,6 +11,13 @@ The Cake Calculator is a Ruby on Rails web application that helps users determin
 - [Contributing](#contributing)
 - [License](#license)
 
+
+## Preview of The App:
+
+# Screenshot.
+
+<img src= "./app/assets/images/Capture d'écran 2023-03-15 154522.png">
+
 ## Installation
 
 Before you can run the Cake Calculator, make sure you have Ruby, Rails, and other dependencies installed on your system. Follow these steps to install the application:
